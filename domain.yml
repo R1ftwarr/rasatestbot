@@ -2,6 +2,7 @@ intents:
   - greet
   - bye
   - thank
+  - howru
 
 responses:
   utter_noworries:
@@ -10,3 +11,5 @@ responses:
     - text: Hi
   utter_bye:
     - text: Bye!
+  utter_wellbeing:
+    - text: I am great now that you are here.

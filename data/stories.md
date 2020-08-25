@@ -9,3 +9,7 @@
 ## goodbye
 * bye
   - utter_bye
+  
+## howru
+* howru
+  - utter_wellbeing

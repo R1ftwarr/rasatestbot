@@ -26,3 +26,11 @@
 - Thanks bot
 - Thanks for that
 - cheers
+
+## intent:howru
+- how are you
+- how have you been
+- are you good
+- how is it going
+- are you well
+- how have you been
