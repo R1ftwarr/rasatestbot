@@ -7,6 +7,7 @@ intents:
 responses:
   utter_noworries:
     - text: No worries dude!
+    - text: Your Welcome.
   utter_greet:
     - text: Hi
   utter_bye:
