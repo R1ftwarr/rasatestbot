@@ -6,10 +6,10 @@ intents:
 
 responses:
   utter_noworries:
-    - text: No fucking worries!
+    - text: No worries dude!
   utter_greet:
     - text: Hi
   utter_bye:
-    - text: Bye!
+    - text: Bye, see you!
   utter_wellbeing:
     - text: I am great now that you are here.

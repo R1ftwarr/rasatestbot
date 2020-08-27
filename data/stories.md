@@ -6,7 +6,7 @@
 * thank
   - utter_noworries
 
-## goodbye
+## bye
 * bye
   - utter_bye
   
